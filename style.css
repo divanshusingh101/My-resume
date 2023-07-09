@@ -1,0 +1,45 @@
+*{
+    margin: 0 auto;
+
+
+}
+.me{
+    position: absolute;
+    border-radius: 50%;
+    z-index: 1;
+    padding-left: 10%;
+}
+.background{
+    z-index: -1;
+    margin: 0 auto;
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.meme{
+    background-color: black;
+    background-image: url('C:\Users\divan\OneDrive\Desktop\g7.jpg');
+}
+
+.mememe{
+    background-color: ;
+}
+
+.me3{
+    position: absolute;
+    background-image: url('C:\Users\divan\OneDrive\Desktop\CSS\1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: ;
+}
+
+.me4{
+    position: absolute;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 80%;
+}
+
+.tb{
+    border: 1px solid black;
+}
